@@ -226,6 +226,33 @@ We will enable slack notifications for:
 ---
 <br/>
 
+## Preparing Assets
+**Assets:** mark icons and images as exportable in Sketch
+
+**Naming:** Agree to an asset naming convention between design and engineering. You can edit asset names in Zeplin too.
+
+**Tips**
+Decide format: CamelCase vs. snake_case
+Make it unique
+Make it descriptive
+
+ex.) profile-gear-highlighted.png
+
+![zeplin](./img/assets.png) 
+
+
+
+## Preparing Styleguide
+
+**Styleguide 🎨:** upload color palette and text styles. 
+
+**Components:** export symbols as components
+
+We recommend for designers and engineers to agree on color and text style names.
+
+![zeplin](./img/styleguide.png)
+
+
 # Zeplin Guide for Developers ⚗️ 📚 
 
 ##### Legend: 💡: Pro-tip
