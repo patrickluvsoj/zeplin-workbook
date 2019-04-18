@@ -240,6 +240,11 @@ ex.) profile-gear-highlighted.png
 
 ![zeplin](./img/assets.png) 
 
+|Platform        | Naming ⚠️#TODO  |
+| ------------- |:-------------|
+| Web asset naming example      |   |
+| iOS asset naming example      |       |
+| Android asset naming example |  |
 
 
 ## Preparing Styleguide
@@ -251,6 +256,22 @@ ex.) profile-gear-highlighted.png
 We recommend for designers and engineers to agree on color and text style names.
 
 ![zeplin](./img/styleguide.png)
+
+|Text Style Naming       |
+| ------------- |
+| Header 1     |
+| Header 2     |
+| Body |
+|      |
+
+
+|Color Naming       |
+| ------------- |
+|  BananaYellow    |
+|  LivingCoral    |
+|  CactusGreen    |
+|      |
+
 
 
 # Zeplin Guide for Developers ⚗️ 📚 
